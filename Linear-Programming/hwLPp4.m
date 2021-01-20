@@ -1,5 +1,4 @@
 % Name: Irene Chang
-% Partner: Henry Gray
 
 f = [-1 -1 0 0 0 0 0 0 0 0];
 Aeq =[1 0 -1 1 -1 0 0 0 0 0;
