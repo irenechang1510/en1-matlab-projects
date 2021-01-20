@@ -1,6 +1,5 @@
 %MYS_hillClimb.m
 %Name: Irene
-%Partners: Erin
 
 % Parameters: Nothing
 % Returns: best_score and best_solution
