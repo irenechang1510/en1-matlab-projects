@@ -23,4 +23,4 @@ c.	Assuming you have a pipe with flow f1. How would you write a constraint that 
 
 d.	Consider a network of pipes with 6 nodes: s, v1, v2, v3, v4 and t. The network is used for the flow of a liquid from s to t. The pipes are equipped with valves that allow the flow of the liquid in only one direction. Each row in Table 1 represents the source node, the capacity, and the destination node of one pipe in the network. First, draw this network as a graph similar to what we did in class. Next, formulate this problem as a linear program that maximizes the flow of the liquid in the network. Turn in these as hwLPp4.pdf. Next, formulate the problem to solve using linprog with a script “hwLPp4.m”. Report the results as comments in the script file.
 
-
+![](https://github.com/irenechang1510/EN1-Matlab-projects/blob/main/Linear-Programming/Workflow.png)
