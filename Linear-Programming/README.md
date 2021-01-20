@@ -1,9 +1,12 @@
 ## Problems for Linear Programming
 
 1/ Using the MATLAB function ‘linprog’, find values for x1 and x2 that maximize the sum x1 + x2 subject to the constraints x1 ≥ 0, x2 ≥ 0 and
-x1 + x2 <= 4
-4x1 + 2x2  <= 12
--x1 + x2 <= 1
+
+- x1 + x2 <= 4
+
+- 4x1 + 2x2  <= 12
+
+- -x1 + x2 <= 1
 
 2/ There are 5 different types of foods: bread, meat, potato, milk and cheese. They supply varying quantities of 3 essential nutrients: carbohydrates, fat and proteins. Table 1.1 provides details about the minimum daily requirement of the nutrients, amount of each nutrient in one serving of each food, cost per serving of each food, and calories provided by each food. Formulate this problem as a linear program that minimizes the cost of your diet. Explain your formulation in a file “hwLPp3.txt” or “hwLPp3.docx”.
 
