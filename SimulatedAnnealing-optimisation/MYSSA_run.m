@@ -1,5 +1,4 @@
 % Name: Irene Chang
-% Partner: Antonio, Michael
 
 
 % Q1: Code from Hill Climbing that I reuse is generateInitialSolution()
