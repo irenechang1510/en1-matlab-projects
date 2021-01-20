@@ -1,5 +1,4 @@
 % Name: Irene Chang
-% Auditor: Michael Wu
 
 
 figure
