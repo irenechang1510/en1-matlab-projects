@@ -10,6 +10,8 @@
 
 2/ There are 5 different types of foods: bread, meat, potato, milk and cheese. They supply varying quantities of 3 essential nutrients: carbohydrates, fat and proteins. Table 1.1 provides details about the minimum daily requirement of the nutrients, amount of each nutrient in one serving of each food, cost per serving of each food, and calories provided by each food. Formulate this problem as a linear program that minimizes the cost of your diet. Explain your formulation in a file “hwLPp3.txt” or “hwLPp3.docx”.
 
+![](https://github.com/irenechang1510/EN1-Matlab-projects/blob/main/Linear-Programming/Diet.png)
+
 3/
 Princess bubblegum hired Finn as a civil engineer to analyze some of the piping under several cities in the Candy Kingdom. In each city, the network of pipes consists of several junctions (nodes) and pipes that connect the junctions. It is assumed that such networks are in steady state. That is, the incoming flow at each junction is equal to the outgoing flow. Alternatively, we can say that the difference between the incoming flow and outgoing flow is equal to zero. In this problem, we will write a linear program to determine the maximum possible flow from starting node s to the sink node t, assuming that the network operates under steady-state conditions.
 
